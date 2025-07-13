@@ -1,0 +1,11 @@
+git status
+git checkout -b 'name'
+git add
+git commit 
+    type message
+    ctrl x
+    y
+    enter
+git push
+    username
+    password - code
